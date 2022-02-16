@@ -9,7 +9,7 @@
 
 ==What is an DCP?==
 
-DCP stands for Data Collaborate Protocol. A DCP is a design document providing information to the data collaborate protocol. The DCP should provide a concise descriptions of data structure and utilization methods. The DCP author is responsible for building consensus within the community and documenting dissenting opinions.
+DCP stands for Data Collaboration Protocol. A DCP is a design document providing information to the data collaboration protocol. The DCP should provide a concise descriptions of data structure and utilization methods. The DCP author is responsible for building consensus within the community and documenting dissenting opinions.
 
 ==DCP Rational==
 
